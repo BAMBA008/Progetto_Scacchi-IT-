@@ -1,0 +1,17 @@
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\bin\Debug\net10.0-windows\Scacchi.exe
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\bin\Debug\net10.0-windows\Scacchi.deps.json
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\bin\Debug\net10.0-windows\Scacchi.runtimeconfig.json
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\bin\Debug\net10.0-windows\Scacchi.dll
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\bin\Debug\net10.0-windows\Scacchi.pdb
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.Scacchi.resources
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.Properties.Resources.resources
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.csproj.GenerateResource.cache
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.AssemblyInfoInputs.cache
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.AssemblyInfo.cs
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.csproj.CoreCompileInputs.cache
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.dll
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\refint\Scacchi.dll
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.pdb
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\Scacchi.genruntimeconfig.cache
+C:\Users\Utilizzatore\source\repos\Scacchi\Scacchi\obj\Debug\net10.0-windows\ref\Scacchi.dll
